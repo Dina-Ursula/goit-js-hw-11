@@ -1,0 +1,17 @@
+#search-form {
+  display: flex;
+  justify-content: center;
+  margin: 5px 0px 10px 0px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.info {
+  display: flex;
+}
+.photo-card img {
+  height: 150px;
+}
